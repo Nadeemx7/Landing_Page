@@ -1,14 +1,12 @@
-# Dev Landing Page
+# Developer Landing Page
 
 Minimal landing page for developers.
 
 Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+I wanted a developer landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
 
-I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
-
-So I sat down one night and created this **Dev Landing Page**. Feel free to fork, clone, play around and make this your own.
+So I sat down one night and created this **Developer Landing Page**. Feel free to fork, clone, play around and make this your own.
 
 ## Themes
 
@@ -29,14 +27,4 @@ If you already have a GitHub profile (obviously)
 * Customize your name, links and everything else for your landing page
 * `git push`
 
-Voila! Your site should be live at `https://{username}.github.io`
-
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - v1](https://v1.dineshpandiyan.com/)
-
-### Custom Domain
-
-If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
-
-## License
-
-MIT © Dinesh Pandiyan
+Voila! Your site should be live at `https://{username}.github.io
